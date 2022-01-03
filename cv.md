@@ -23,7 +23,7 @@ function multiply(a, b){
 ```
 ___
 ## Projects
-[My Project](https://github.com/juliaTM/rsschool-cv/blob/a29c3c798c99889e864ebe15d535e1c18d902409/cv.md)
+[My Project](https://juliaTM.github.io/rsschool-cv/cv.md)
 ___
 
 ## Programming Languages
