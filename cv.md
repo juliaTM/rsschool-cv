@@ -1,20 +1,19 @@
 
 ![photo](https://github.com/juliaTM/docs/blob/main/small_photo.jpg?raw=true)
 
-# Yulia Tolmach #
- ### Contact information: 
-  *email: tolmachYulia@gmail.com,discord: JuliaT(@juliaTM)*
+# Yulia Tolmach 
+## Contact information: 
+*email: tolmachYulia@gmail.com*
+*discord: JuliaT(@juliaTM)*
 ___
-#### __*Project Manager, Software engineer,  based in Warsaw, Poland*__
-____
+*Project Manager, Software engineer,  based in Warsaw, Poland*
+___
 
 ## Education
+*1990-1995: PhD, Computer Science*
 
- _**1990-1995
-:   PhD, Computer Science;**_
-
-_Belarusian State University of Informatics and Radioelectronics (Minsk)_
-___________
+**Belarusian State University of Informatics and Radioelectronics (Minsk)**
+___
 
 ## Example of coding:
 ``` javascript
@@ -22,14 +21,14 @@ function multiply(a, b){
   return a * b 
 } 
 ```
-__________
+___
 ## Projects
 [My Project](https://github.com/juliaTM/rsschool-cv/blob/a29c3c798c99889e864ebe15d535e1c18d902409/cv.md)
-_________
+___
 
 ## Programming Languages
   _**Java, C++, lua**_
-  __________
+ ___
 
 
 ## Human Languages:
@@ -37,4 +36,4 @@ _________
 * English B2
 * Polish B2
 * Russian (native)
-_______
+___
