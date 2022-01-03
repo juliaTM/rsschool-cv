@@ -2,8 +2,8 @@
 ![photo](https://github.com/juliaTM/docs/blob/main/small_photo.jpg?raw=true)
 
 # Yulia Tolmach #
- #### Contact information: 
-  tolmachYulia@gmail.com, +48721509524, JuliaT(@juliaTM) 
+ ### Contact information: 
+  *email: tolmachYulia@gmail.com,discord: JuliaT(@juliaTM)*
 ___
 #### __*Project Manager, Software engineer,  based in Warsaw, Poland*__
 ____
@@ -11,9 +11,9 @@ ____
 ## Education
 
  _**1990-1995
-:   PhD, Computer Science;**_ 
+:   PhD, Computer Science;**_
 
-Belarusian State University of Informatics and Radioelectronics (Minsk)
+_Belarusian State University of Informatics and Radioelectronics (Minsk)_
 ___________
 
 ## Example of coding:
