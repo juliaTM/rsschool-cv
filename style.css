@@ -1,3 +1,42 @@
-h1{
-    font-size: 120px;
+h3{
+    color:rgb(9, 10, 63);
+}
+
+hr{
+  height:2px;
+  border-width:0;
+  color:gray;
+  background-color:gray;
+    
+}
+
+  .violet{
+    background-color:darkkhaki(31, 32, 32);
+  }
+  .tabcolor{
+      background-color:darkgray;
+    
+  }
+  .tabcolor2{
+    background-color:rgb(215, 205, 235);
+}
+.tabcolor3{
+    background-color:rgb(63, 81, 90);
+}
+
+.tocenter{
+    align-content:center;
+}
+.newcolor{
+    background-color: rgb(9, 10, 63);
+}
+.newgray{
+    background-color:rgb(219, 216, 221);
+}
+.itbold{
+    font-style: oblique;
+    font-weight: bold;
+  }
+  li{
+    font-style: oblique;
   }
