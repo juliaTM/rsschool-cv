@@ -1,3 +1,3 @@
-[link1](https://juliaTM.github.io/rsschool-cv/cv)
+[Link to md file](https://juliaTM.github.io/rsschool-cv/cv)
 
-[link2](https://juliaTM.github.io/rsschool-cv/)
+[link to the maked up site ](https://juliaTM.github.io/rsschool-cv/)
