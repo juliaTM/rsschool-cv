@@ -40,3 +40,6 @@ hr{
   li{
     font-style: oblique;
   }
+  table{
+      width: 700px;
+  }
